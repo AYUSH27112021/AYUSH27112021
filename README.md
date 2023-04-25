@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/ayush-kumar-singh-a59844206">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="ayushkumar.20aiml@cambridge.edu.in">
+  <a href="mailto:ayushnov27@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
