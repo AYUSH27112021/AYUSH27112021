@@ -3,15 +3,6 @@
   <img id="gif" src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="200"/>
 </div>
 
-<script>
-window.onload = function() {
-  var gif = document.getElementById("gif");
-  gif.style.display = "none"; // Hide the original img element
-  gif.src = gif.src; // Reload the GIF source
-  gif.style.display = "block"; // Display the GIF element
-};
-</script>
-
 <div id="header"  align="center">
   <a href="https://www.linkedin.com/in/ayush-kumar-singh-a59844206">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
