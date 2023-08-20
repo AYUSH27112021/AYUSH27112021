@@ -1,5 +1,6 @@
+
 <div id="header" align="center">
-  <video src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="200" autoplay loop muted></video>
+  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="200"/>
 </div>
 
 <div id="header"  align="center">
