@@ -10,6 +10,9 @@
   <a href="mailto:ayushnov27@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+  <a href="https://discord.gg/wEXhkjqP">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Youtube Badge"/>
+  </a>
 </div>
 <div id="header"  align="center">
 <img src="https://komarev.com/ghpvc/?username=AYUSH27112021&style=flat-square&color=blue" alt=""/>
